@@ -147,6 +147,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrylec&show_icons=true&locale=en&layout=compact&count_private=true" alt="henrylec" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrylec&show_icons=true&locale=en&layout=compact&count_private=true&hide=css" alt="henrylec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrylec&show_icons=true&count_private=true&locale=en" alt="henrylec" /></p>
