@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Volunteerio](https://volunteerio.us)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **C++**
 
 - 👨‍💻 All of my projects are available at [henrylec.dev](https://henrylec.dev)
 
