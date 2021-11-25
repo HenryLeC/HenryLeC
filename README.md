@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrylec&label=Profile%20views&color=0e75b6&style=flat" alt="henrylec" /> </p>
 
-- 🔭 I’m currently working on [Oasis](https://github.com/oasis-sh/oasis)
+- 🔭 I’m currently working on a VR Game
 
-- 🌱 I’m currently learning **React** and **C++**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [henrylec.dev](https://henrylec.dev)
 
-- 💬 Ask me about **Xamarin, Flask**
+- 💬 Ask me about **VR** **Xamarin, Flask**
 
 - 📫 How to reach me **henry@volunteerio.us**
 
