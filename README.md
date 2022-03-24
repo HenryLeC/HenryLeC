@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrylec&label=Profile%20views&color=0e75b6&style=flat" alt="henrylec" /> </p>
 
-- 🔭 I’m currently working on a VR Game
+- 🔭 I’m currently working on a VR Game and FRC team 2383, the Ninjineers
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity**, **C++**, and **Robotics**
 
 - 👨‍💻 All of my projects are available at [henrylec.dev](https://henrylec.dev)
 
-- 💬 Ask me about **VR** **Xamarin, Flask**
+- 💬 Ask me about **VR**, **C#, C++**
 
-- 📫 How to reach me **henry@volunteerio.us**
+- 📫 How to reach me **henry@lunar-glass.com**
 
 - 📄 Know about my experiences [henrylec.dev](https://henrylec.dev)
 
